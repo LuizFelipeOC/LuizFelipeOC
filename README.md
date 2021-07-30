@@ -6,4 +6,5 @@ ___________________________________________________
 
 
  ### Minhas Experiência
-   Atualmente atuo como desenvolvedor Flutter fazendo manuntenções nas aplicações e integração com APIS e desenvolvimento de aplicação 📱.
+   💼 Atualmente atuo como desenvolvedor Flutter fazendo manuntenções nas aplicações e integração com APIS e desenvolvimento de aplicação.
+   💻 Atuei como desenvolvedor web em um projeto acadêmico utilizando HTML / CSS / BOOTSTRAP.
