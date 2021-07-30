@@ -2,4 +2,4 @@
 ### Olá visitantes, tudo bem? ☺
 ___________________________________________________
 
-Me chamo Luiz Felipe, sou desenvolvedor mobile utilizando a linguagem Dart com o framkeworkd Flutter. Assim como todo bom e velho programador é movido a base de café ☕ eu também sou.
+  Como vocês devem saber eu chamo Luiz Felipe, Tenho 18 anos e sou desenvolvedor Flutter e conhecedor de React Native. Assim como todo e bom programador um cafézinho nas horas pensantes sempre cai bem, não é mesmo?
