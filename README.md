@@ -1,8 +1,6 @@
 
 ### Olá, eu sou o Luiz.
 ##
-
-##
  <div>
   <a href="https://github.com/LuizFelipeOC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeOC&show_icons=true&&include_all_commits=true&count_private=true"/>
