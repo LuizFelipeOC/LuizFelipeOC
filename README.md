@@ -2,15 +2,10 @@
 ### Olá, eu sou o Luiz.
  <p>Bem-Vindo ao meu perfil, tudo bem com você 😊?</p>
  <p>Como vocês já devem saber, eu me chamo Luiz e como todo programador um apreciador do café ☕. Atualmente residindo em Cuiabá</p>
-##
- <div>
-  <a href="https://github.com/LuizFelipeOC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeOC&show_icons=true&&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeOC&layout=compact&langs_count=7&"/>
-</div>
+ 
 
   
-#
+
  ## Meus Contatos
  <p>Pode entrar em contato nesses três canais:</p>
   
@@ -21,6 +16,13 @@
   <a href="https://www.linkedin.com/in/luiz-felipe-4657971a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
+</div>
+
+## Meus conhecimentos 
+<div>
+  <a href="https://github.com/LuizFelipeOC">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeOC&show_icons=true&&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeOC&layout=compact&langs_count=7&"/>
 </div>
 
  ## Minhas Experiências 👨‍💻
