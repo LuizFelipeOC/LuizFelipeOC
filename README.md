@@ -1,12 +1,12 @@
 
 ### Olá, eu sou o Luiz.
  <p>Bem-Vindo ao meu perfil, tudo bem com você 😊?</p>
- <p>Como vocês já devem saber, eu me chamo Luiz e como todo programador um apreciador do café ☕. Atualmente residindo em Cuiabá</p>
+<p>Atuando na área de desenvolvimento mobile utilizando flutter, assimc como todo programador um amante do café ☕/p>
  
 
   
 
- ## Meus Contatos
+ ## Meus Contatos 📞
  <p>Pode entrar em contato nesses três canais:</p>
   
 <div> 
@@ -18,7 +18,7 @@
  
 </div>
 
-## Meus conhecimentos 
+## Meus conhecimentos 😎
 <div>
   <a href="https://github.com/LuizFelipeOC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeOC&show_icons=true&&include_all_commits=true&count_private=true"/>
@@ -26,7 +26,7 @@
 </div>
 
  ## Minhas Experiências 👨‍💻
-    -> Desenvolvimento mobile com Flutter.
+    -> Desenvolvimento mobile com Flutter 📱.
     -> Integrações de API e API utilizando Flutter.
     -> Manutenções e Automatização de Aplicativos.
     -> Prototipação de UI para aplicações mobiles utilizando a ferramenta FIGMA.
