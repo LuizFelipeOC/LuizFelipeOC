@@ -7,7 +7,7 @@
   
 
  ## Meus Contatos 📞
- <p>Pode entrar em contato nesses três canais:</p>
+ <p>Entre com contato comigo, por meio desses canais:</p>
   
 <div> 
  
