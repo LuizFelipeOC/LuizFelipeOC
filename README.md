@@ -1,7 +1,7 @@
 
 ### Olá, eu sou o Luiz.
  <p>Bem-Vindo ao meu perfil, tudo bem com você 😊?</p>
-<p>Atuando na área de desenvolvimento mobile utilizando flutter, assim como todo programador um amante do café ☕/p>
+<p>Atuando na área de desenvolvimento mobile utilizando flutter, assim como todo programador um amante do café ☕</p>
  
 
   
