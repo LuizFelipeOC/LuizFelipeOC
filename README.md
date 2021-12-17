@@ -27,6 +27,6 @@
 
  ## Minhas Experiências 👨‍💻
     -> Desenvolvimento mobile com Flutter 📱.
-    -> Integrações de APIcutilizando Flutter.
+    -> Integrações de API utilizando Flutter.
     -> Manutenções e Automatização de Aplicativos.
     -> Prototipação de UI para aplicações mobiles utilizando a ferramenta FIGMA.
