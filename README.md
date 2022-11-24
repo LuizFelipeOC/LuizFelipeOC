@@ -5,7 +5,7 @@ My name is Luiz, i'm **Node Js** using **TypeScript** and **Flutter Developer**.
 
 Lover of technology and coffee as all developer.
 
-Student of Softaware Enginner 
+Student of Softaware Engineer 
 
 <img align="right" width="40%" src="https://media.giphy.com/media/kCVIL0CLNWv2E/giphy.gif" alt="Basecamp sky" />
 
