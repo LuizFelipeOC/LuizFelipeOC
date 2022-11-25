@@ -3,9 +3,9 @@
 
 My name is Luiz, i'm **Node Js** using **TypeScript** and **Flutter Developer**. 
 
-Technology and Coffee lover like every developer
+☕ Technology and Coffee lover like every developer
 
-Student of Software Engineer 
+👨🏽‍💻 Software Engineer 
 
 <img align="right" width="40%" src="https://media.giphy.com/media/kCVIL0CLNWv2E/giphy.gif" alt="Basecamp sky" />
 
