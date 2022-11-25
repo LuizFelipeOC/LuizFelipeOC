@@ -3,7 +3,7 @@
 
 My name is Luiz, i'm **Node Js** using **TypeScript** and **Flutter Developer**. 
 
-Lover of technology and coffee as all developer.
+Technology and Coffee lover like every developer
 
 Student of Software Engineer 
 
