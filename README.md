@@ -26,5 +26,5 @@ In addition to adding the applications in productions in the app stores.
 
  <br/>
 
- [![My Skills](https://skillicons.dev/icons?i=flutter,dart,typescript,nodejs,swift,git,html,css)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=flutter,dart,typescript,nodejs,swift,git,html,css,vue)](https://skillicons.dev)
 
