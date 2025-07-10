@@ -21,5 +21,5 @@ My name is Luiz, and I am a Mobile Developer with over two years of experience s
  - React, React Native, and Vue for web and mobile development[
  <br/>
 
- [![My Skills](https://skillicons.dev/icons?i=flutter,dart,typescript,git,html,css,vue,nodejs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,nextjs,tailwind,figma&)](https://skillicons.dev)
 
