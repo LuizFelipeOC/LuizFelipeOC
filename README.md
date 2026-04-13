@@ -1,57 +1,74 @@
-# 👋 Hello / Olá! I'm Luiz
+# 👋 Hi, I'm Luiz Oliveira
 
-🎯 **Mobile & Front-end Developer**  
-💻 Passionate about technology, design, and creating amazing digital experiences.  
-💙 **Desenvolvedor Mobile & Front-end**, apaixonado por tecnologia, design e pela criação de experiências digitais incríveis.
-
----
-
-## 🚀 About Me / Sobre Mim
-
-🇺🇸 I'm a developer with **5+ years of experience in Flutter** and **2 years with React Native**.  
-Currently learning **Swift** and exploring **Next.js** and **Vue** to build modern and scalable apps.  
-
-🇧🇷 Sou um desenvolvedor com **mais de 5 anos de experiência em Flutter** e **2 anos em React Native**.  
-Atualmente aprendendo **Swift** e explorando **Next.js** e **Vue** para criar aplicações modernas e escaláveis.  
-
-💡 Experienced in **legacy code maintenance**, **UI/UX design**, and tools like **Figma** and **Tailwind CSS**.
+🎯 **Mobile & Front-end Developer**
+💻 Passionate about building modern, scalable, and user-centered digital experiences.
 
 ---
 
-## 🧩 Tech Stack / Tecnologias
+## 🚀 About Me
 
-### 📱 **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+**5+ years with Flutter • 2 years with React Native**
+Building scalable apps with focus on performance, architecture, and user experience.
 
-### 🌐 **Front-end Development**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+I specialize in turning ideas into real products, combining **clean code**, **efficient architecture**, and **intuitive UI/UX**.
 
-### 🎨 **Design & Tools**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Currently, I'm expanding my skills with **Swift (native iOS development)** and exploring modern web technologies like **Next.js** and **Vue.js**.
 
 ---
 
-## 📚 Learning / Aprendizado Contínuo
+## 🧩 Tech Stack
 
-🇺🇸 Always learning and improving — currently focused on:  
-- Swift & native iOS development  
-- App architecture and performance  
-- UX/UI and accessibility best practices  
+### 📱 Mobile Development
 
-🇧🇷 Sempre aprendendo e evoluindo — atualmente focado em:  
-- Swift & desenvolvimento iOS nativo  
-- Arquitetura e performance de aplicativos  
-- UX/UI e boas práticas de acessibilidade  
+* Flutter
+* React Native
+* Swift *(learning)*
+
+### 🌐 Front-end Development
+
+* Next.js
+* Vue.js
+* Tailwind CSS
+
+### 🎨 Design & Tools
+
+* Figma
+* Git & GitHub
 
 ---
 
-## 🧠 Legacy Code / Código Legado
+## 🧠 What I Do Best
 
-🇺🇸 Experienced in maintaining and refactoring **legacy code**, ensuring project stability and scalability.  
-🇧🇷 Experiência sólida em **manutenção e refatoração de código legado**, garantindo estabilidade e evolução dos projetos.
+* ✨ Build smooth, scalable, and maintainable mobile applications
+* 🔧 Refactor and improve **legacy codebases**
+* 🎯 Focus on performance and clean architecture
+* 🎨 Design intuitive and polished user interfaces
+
+---
+
+## 📚 Currently Learning
+
+* Swift & native iOS development
+* Advanced mobile architecture
+* UX/UI and accessibility best practices
+
+---
+
+## 📈 Mindset
+
+I believe great software is built with a balance of:
+
+* **Code quality**
+* **Performance**
+* **User experience**
+* **Continuous learning**
+
+---
+
+## 📫 Let's Connect
+
+* 💼 LinkedIn: [Meu Linkedin](https://www.linkedin.com/in/luizfelipeoc/)
+
+---
+
+⭐️ *Always building, always learning.*
